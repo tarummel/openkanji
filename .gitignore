@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# env files
+.env.dev
+.env.stage
+.env.prod
+
+# vscode
+.vscode/
